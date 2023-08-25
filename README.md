@@ -1,4 +1,4 @@
-# 💫 Hi there, I'm Pathum:
+# 💫 Hi there, I'm Pathum
 - I'm a 3rd year **Software Engineering** student at **Carleton University**.
 - My favorite programming languages are **Python** and **Java**
 - I'm interested in **networking**, **hardware**, and **microcontrollers**
